@@ -1,0 +1,2 @@
+This folder MUST be in your $HOME directory, otherwise it will
+not work. This could be U: or C: or D:, for example.
